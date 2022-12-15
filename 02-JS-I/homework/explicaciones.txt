@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+- Variables: una variable es un dato al cual le asignamos un valor. 
+
+- Strings: un String es un tipo de dato, este puede ser cualquier cosa siempre y cuando lo encierres entre comillas(simples o dobles)
+
+- Funciones: una función es una herramienta en la cual le decimos que hacer(con codigo) y nos devuelve un valor. 
+Esta función puede recibir argumentos para que sean utilizados. Los argumentos van encerrados entre parentesis antes del nombre de la función.
+A su vez le podemos ordenar a la función mostrarnos el resultado de la misma con la palabra clave "return".
+
+- Declaraciones `if`: el if se puede interpretar como un "si", ejemplo: SI llueve, no salgo. es basicamente cuando tenemos una condición.
+
+- Valores booleanos (`true`, `false`): cuando ejecutamos una función u operamos con valores booleanos, el navegador lo interpreta esa condición o resultado como verdadero (true) o falso (false).
+
