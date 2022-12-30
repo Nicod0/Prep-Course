@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+- "for": en javascript la palabra "for" crea un bucle que recibe tres parametros, separados con punto y coma. El primer parametro declara la variable, el segundo es la condicion de cierre y el tercero es lo que queres que haga hasta que se cumpla la condicion de cierre.
+- "&&": esta simbologia quiere decir "and", esta compara dos booleanos. Cuando los dos booleanos son true, devuelve true; en caso de que uno sea true y el otro no, devuelve false; y en caso de que ambos sean false, devuelve false.
+- "||": este operador lógico significa "or", este devuelve true cuando al menos uno de esos booleanos es true. Si ambos son false, devuelve false y si ambos son true devuelve true.
+- "!": este operador significa "NO", devuelve lo contrario del booleano. ejemplo, si una expresión es false y coloco este operador, te devuelve true, lo mismo en el caso contrario.
+

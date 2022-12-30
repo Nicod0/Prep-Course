@@ -1,0 +1,18 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+-Objetos: Los objetos son contenedores de datos, mas que todos sobre algo en especifico; como una persona, un auto, etc.
+Estos pueden contener propiedades y metodos.
+
+-Propiedades: las propiedades son variables asignadas a un objeto, ejemplo, si el objeto fuera una persona, una propiedad podria ser el nombre.
+
+-Métodos: los metodos son funciones que les asignamos a los objetos, siguiendo con el ejemplo de la persona, un método podria ser "saludar".
+
+-Bucle "for...in": estos bucles surgen ya que el bucle for, que se usan en los arrays no funcionan con objetos; Entonces usamos los bucles for...in, que recorren las propiedades y metodos de los objetos.
+
+-Notación de puntos vs notación de corchetes: la notación de puntos es mas rápida y sencilla que la notación con corchetes.
